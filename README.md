@@ -30,6 +30,17 @@ Show Stream Executives would like a performance analysis from 2022 to 2025:
 
 ![Subscriber by Region](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/ShowStreamSubscriptionAnalysis.png)
 
+# Key KPI Metric Insights:
+- Show Stream demonstrates a rapid growth between the periods of 2022 to 2025
+- Monthly Recurring Revenue (MRR) grew from $438 to $31,184
+- Active subscriber base grew from 60 to 4281 users
+  - Top 5 subscribers by state: CA at 895, TX at 732, FL at 325, AZ at 282, and TN at 207
+- Annual revenue grew from $38,393 to $322,916, an increase of 741%
+  - Lead by Tier 2 new subscriptions making up 49% of new sign ups
+- Annual cost average remained steady over the 4 year period
+  - Allowing for a healthy profit margin of 58.8%, to allow for:
+    - Product Research and marketing campaigns
+    - New content acquisition
 
 
 
