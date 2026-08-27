@@ -2,7 +2,8 @@
 Show Stream is a fictional company used to simulate a real-world SaaS business. I created this synthetic dataset with over 5000 records from two tables using Google Gemini for people learning data analysis. It offers a realistic environment to practice SQL joins, spreadsheet analysis techniques, churn modeling, revenue tracking, and support analytics using a multi-table relational structure.
 
 Dirty Tables
-[Show Stream Accounts](https://www.google.com), [Show Stream Subscribers](https://www.google.com)
+- [Show Stream Accounts](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/show_stream_accounts_dirty.csv)
+- [Show Stream Subscribers](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/show_stream_subscribers_dirty.csv)
 
 # Case Study Project:
 Show Stream is a subscription based streaming service platform catering to viewers interested in unique recorded Live Concerts, DJ Sets, and Theatrical performances.  The business follows a 12 month subscription ranging from Tier 1 premium, Tier 2, and Tier 3 cost plans.
