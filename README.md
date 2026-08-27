@@ -22,6 +22,17 @@ Show Stream Executives would like a performance analysis from 2022 to 2025:
 - [Performance Analytics Report](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/PerformanceAnalytics.pdf)
 - [Spreadsheet Calculations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQi9ykCW1yWiITUpHlSoWfxJrWNmHog70wL_LcbAxvkzNAV3fiKgDpLixBj38vHFO-V13C4AgtQQHF1/pubhtml)
 
+![ARPU and MRR](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/ShowStreamARPUMRR.png)
+
+![Dashboard](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/ShowStream4YearPerformance.png)
+
+![Subscriber and Cancellation Tracking](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/ShowStreamNewSignupsCancellations.png)
+
+![Subscriber by Region](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/e362221251491782d10272b353c8a084d09513cf/ShowStreamSubscriptionAnalysis.png)
+
+
+
+
 
 
 
