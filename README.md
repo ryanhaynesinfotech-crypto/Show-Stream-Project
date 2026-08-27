@@ -20,6 +20,7 @@ Show Stream Executives would like a performance analysis from 2022 to 2025:
 - [Change Log](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/ChangeLog.pdf)
 - [SQL Query](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/SQLquery.pdf)
 - [Performance Analytics Report](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/PerformanceAnalytics.pdf)
+- [Spreadsheet Calculations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQi9ykCW1yWiITUpHlSoWfxJrWNmHog70wL_LcbAxvkzNAV3fiKgDpLixBj38vHFO-V13C4AgtQQHF1/pubhtml)
 
 
 
