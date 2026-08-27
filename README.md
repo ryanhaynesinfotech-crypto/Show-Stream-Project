@@ -16,7 +16,10 @@ Show Stream Executives would like a performance analysis from 2022 to 2025:
   - Tier service level adoption
 - Key Insights for next steps for improving brand recognition and financial growth
 
-
+# Supporting Material
+- [Change Log](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/ChangeLog.pdf)
+- [SQL Query](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/SQLquery.pdf)
+- [Performance Analytics Report](https://github.com/ryanhaynesinfotech-crypto/Show-Stream-Project/blob/22ef406134ec41a6accfdba4e468aa8668f180ee/PerformanceAnalytics.pdf)
 
 
 
